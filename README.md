@@ -23,8 +23,7 @@ Aplikasi ini memungkinkan kamu untuk mencatat, menandai selesai, dan menghapus d
 3. Clone repository:
 
    ```bash
-   git clone <url-repo-anda>
-   cd todo-app
+   git clone https://github.com/victorygrey/todo-app
    cd todo-app
    ```
 
@@ -63,7 +62,7 @@ Aplikasi ini memungkinkan kamu untuk mencatat, menandai selesai, dan menghapus d
 0BSD
 
 ## Kredit
-Dikembangkan oleh (tulis nama Anda di sini). Project ini hanya untuk pembelajaran/personal.
+Dikembangkan oleh Faizal Hamzah (or VictoryGrey). Project ini hanya untuk pembelajaran/personal.
 
 ---
 
